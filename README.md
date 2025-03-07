@@ -17,7 +17,7 @@ Ciao, sono Davide, un **Junior Fullstack Developer** con una mente creativa, aff
 Mi appassiona il frontend development, dove posso unire logica e <br> creatività per dare vita a interfacce dinamiche ed esteticamente curate.
 
 
-### 🚀Progetti & Esperimenti
+### 🧪Progetti & Esperimenti
 
 Tutti i miei lavori e sperimentazioni sono disponibili su:  https://github.com/DavideTosti .
 
