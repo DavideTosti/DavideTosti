@@ -11,22 +11,6 @@
 
 **-Software & tools:** Visual Studio Code, Git, Git Hub
 
-
-### 🎨Predisposizione al Frontend
-
-Mi appassiona il frontend development, dove posso unire logica e <br> creatività per dare vita a interfacce dinamiche ed esteticamente curate.
-
-
-### 🧪Progetti & Esperimenti
-
-Tutti i miei lavori e sperimentazioni sono disponibili su:  https://github.com/DavideTosti .
-
-
-### 📚CV
-
-Se vuoi saperne di più sul mio percorso, ecco il mio [Curriculum](https://drive.google.com/file/d/1S__PLvOQkn2dNvGY2Qnj0TgM7WSBO80j/view?usp=drive_link)
-
-
 ### 📫Contatti:  
 
 **- [Linkedin](https://www.linkedin.com/in/davide-tosti-387344328/?trk=public-profile-join-page)** 
